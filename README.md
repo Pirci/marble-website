@@ -1,4 +1,4 @@
-# PSD TO RESPONSIVE WEBSITE
+# PSD to Responsive Website
 
 Using Adobe XD, create website from UI design via HTML & CSS
 
