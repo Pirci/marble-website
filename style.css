@@ -221,3 +221,78 @@ footer li.tw {
   color: #cacaca;
   border-top: 2px solid #fffff;
 }
+
+/* MEDIDA QUERIES STARTING POINT */
+
+@media screen and (max-width: 960px) {
+  #selling-points li {
+    width: 50%;
+    padding: 0 5%;
+    margin: 20px 0;
+  }
+
+  footer ul {
+    width: 50%;
+  }
+
+  footer ul:nth-child(odd) {
+    clear: both;
+  }
+
+  #quote {
+    width: 100%;
+    padding: 40px 5%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  header nav {
+    float: none;
+  }
+
+  header nav li {
+    margin-left: 0;
+    width: 16.66%;
+    text-align: center;
+    font-size: 14px;
+  }
+
+  header h1.logo {
+    float: none;
+    margin: 0 auto 15px;
+  }
+
+  #latest-work li {
+    width: 60%;
+    margin: 30px 20% !important;
+    float: none;
+  }
+
+  #latest-work h2 {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  #selling-points li {
+    width: 80%;
+    padding: 0 10% 0 25%;
+    margin: 20px 0;
+  }
+
+  #latest-work li {
+    width: 80%;
+    margin: 30px 10% !important;
+  }
+  #quote {
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 15%;
+  }
+
+  footer ul {
+    width: 100%;
+    float: none;
+    border-top: 2px solid #333;
+  }
+}
