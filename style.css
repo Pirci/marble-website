@@ -347,4 +347,11 @@ footer li.tw {
     cursor: pointer;
     background-size: 30px 20px;
   }
+  header nav ul {
+    height: 0;
+    overflow: hidden;
+  }
+  header nav ul.open {
+    height: auto;
+  }
 }
