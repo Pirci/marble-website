@@ -2,6 +2,7 @@
 
 Necessary pictures will be taken from the PSD design with Adobe XD.
 While creating the structure of the page, CSS Grid and Flexbox are used.
+Websites create mobile first design approach.
 
 Please click on the link below to view it.
 
