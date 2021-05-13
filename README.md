@@ -1,11 +1,10 @@
 # Marble PSD to Responsive Website
 
-> Creating a website by installing the psd file design from scratch. The goal is to build website according to original dimensions from design file. 
-Websites create mobile first design approach. A few javascript syntax was also used while creating the project.
+> Creating a website by installing the psd file design from scratch. The goal is to build website according to original dimensions from design file.  A few javascript syntax was also used while creating the project.
 
 Live Demo
 
-Preview:https://pirci.github.io/marble-website/
+Preview:  https://pirci.github.io/marble-website/
 
 ![marble-website](demo.gif)
 
