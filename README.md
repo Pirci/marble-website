@@ -1,16 +1,29 @@
 # Marble PSD to Responsive Website
 
-Necessary pictures will be taken from the PSD design with Adobe XD.
+> Creating a website by installing the psd file design from scratch. The goal is to build website according to original dimensions from design file. 
+Websites create mobile first design approach. A few javascript syntax was also used while creating the project.
 
-While creating the structure of the page, CSS Grid and Flexbox are used.
+Live Demo
+
+Preview:https://pirci.github.io/marble-website/
+
+![marble-website](demo.gif)
+
+ ## What I Learned:
+
+- Getting the necessary assets from the PSD file.
+- Get used to the Adobe XD interface.
+- Using Chrome/Firefox's developer tools to debug and see underlying code
+- How elements get placed, styled, and aligned on the page
+- Organizing code with divs to make items easier to position
+- Using CSS Flexbox for the layout of the page
+- Multiple types of CSS selectors
+- SVG icons
 
 
-Websites create mobile first design approach.
-Please click on the link below to view it.
+## Possible Improvements
 
+- Cleaner code
+- Use more semantic elements
+- Formatting could be improved when viewing on certain devices/browsers
 
-https://pirci.github.io/marble-website/
-
-![preview](https://user-images.githubusercontent.com/43238947/112647653-099d6980-8e49-11eb-94cb-3acb66256e5e.jpg)
-
- 
