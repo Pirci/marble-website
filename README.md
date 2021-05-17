@@ -17,7 +17,6 @@ Preview:  https://pirci.github.io/marble-website/
 - Organizing code with divs to make items easier to position
 - Using CSS Flexbox for the layout of the page
 - Multiple types of CSS selectors
-- SVG icons
 
 
 ## Possible Improvements
